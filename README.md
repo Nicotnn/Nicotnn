@@ -20,7 +20,8 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 
 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200">
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="250">
+
 
 **Contact Me:**
 
