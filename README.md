@@ -20,7 +20,8 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 
 <br>
-![NUX_Octodex (1)](https://github.com/user-attachments/assets/c3183013-5707-4ec1-b6e0-ede01a94beb3)
+![NUXtocat](https://octodex.github.com/images/NUX_Octodex.gif)
+
 
 
 
