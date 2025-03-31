@@ -20,9 +20,10 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 
 
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200">
 
 **Contact Me:**
 
 <a href="mailto:tananow.nico@gmx.de"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="www.linkedin.com/in/nico-tananow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-![NUX_Octodex (1)](https://github.com/user-attachments/assets/76520abd-c80a-4abd-9e2f-f174d57ff7c2)
+
