@@ -12,9 +12,14 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 * Python | Java | SQL
 
-**🌐 DevOps**
+**🌐 Technologies**
 
-*  Docker 
+*  Docker
+*  Jira
+*  MS Office
+
+
+<br>
 ![Uploading NUX_Octodex.gif…]()
 
 
