@@ -1,6 +1,6 @@
-![NUX_Octodex (1)](https://github.com/user-attachments/assets/f0e493a7-e0cd-4d2c-a5f7-2722e0a1b135)### Introduction
+## Introduction
 
-Hello 👋, I'm Nico. I'm a M.Sc. Industrial Engineering Student at Techncal University Berlin. I'm interested in Machine and Deep Learning.
+Hello 👋, I'm Nico. I'm a M.Sc. Industrial Engineering Student at Technical University Berlin. I'm interested in Machine and Deep Learning.
 
 My primary focus is on learning and understanding how AI and Data Science applications work, and I am steadily learning Python (especially Pytorch and Numpy) and have learned basics in Java and SQL, which I am looking to improve. I am eager to bring my skills and experience to a new challenge as a working student and to dive deeper into the topic of AI.
 
@@ -21,7 +21,7 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 
 
-![NUX_Octodex (1)](https://github.com/user-attachments/assets/3bf5f894-379b-4773-b818-3c2f1460bd49)
+![NUX_Octodex (1)](https://github.com/user-attachments/assets/3bf5f894-379b-4773-b818-3c2f1460bd49 | width=100)
 
 
 
