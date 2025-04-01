@@ -12,11 +12,10 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 * Python | Java | SQL
 
-**🌐 Technologies**
+**🌐 Applications**
 
-*  Docker
-*  Jira
-*  MS Office
+*  Docker | Jira | MS Office
+
 
 
 
