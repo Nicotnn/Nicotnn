@@ -19,8 +19,8 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 
 
-<img src="https://github.com/user-attachments/assets/3bf5f894-379b-4773-b818-3c2f1460bd49" width="150" height="150">
-<img src="https://github.com/user-attachments/assets/3bf5f894-379b-4773-b818-3c2f1460bd49" style="width:150px; height:150px;">
+<img src="https://github.com/user-attachments/assets/3bf5f894-379b-4773-b818-3c2f1460bd49" width="200" height="200">
+
 
 
 **Contact Me:**
