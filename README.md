@@ -5,6 +5,7 @@ Hello 👋, I'm Nico. I'm a M.Sc. Industrial Engineering Student at Technical Un
 My primary focus is on learning and understanding how AI and Data Science applications work, and I am steadily learning Python (especially Pytorch and Numpy) and have learned basics in Java and SQL, which I am looking to improve. I am eager to bring my skills and experience to a new challenge as a working student and to dive deeper into the topic of AI.
 
 <br>
+
 #### Some Technical Stuff I Work With
 
 **👨‍💻 Programming Languages**
