@@ -1,4 +1,4 @@
-### Introduction
+![NUX_Octodex (1)](https://github.com/user-attachments/assets/f0e493a7-e0cd-4d2c-a5f7-2722e0a1b135)### Introduction
 
 Hello 👋, I'm Nico. I'm a M.Sc. Industrial Engineering Student at Techncal University Berlin. I'm interested in Machine and Deep Learning.
 
@@ -20,7 +20,9 @@ My primary focus is on learning and understanding how AI and Data Science applic
 
 
 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="250">
+
+![NUX_Octodex (1)](https://github.com/user-attachments/assets/3bf5f894-379b-4773-b818-3c2f1460bd49)
+
 
 
 **Contact Me:**
